@@ -1,9 +1,9 @@
 ---
 layout: post
-title: An exhibit of Markdown
-subtitle: Each post also has a subtitle
+title: Jekyll과 GitHib을 이용한 블로그 만들기
+subtitle: 비개발자도 블로그 만들 수 있다
 categories: markdown
-tags: [example, markdown]
+tags: [Jekyll, markdown]
 ---
 
 This note demonstrates some of what [Markdown][1] is capable of doing.
