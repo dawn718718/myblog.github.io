@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: All About Technical Writing and Docs-As-Code
+title: JaeYeon's Blog - Technical Writer & Content Developer
 email: dawn718718@hotmail.com
 author: JaeYeon Kim
 
